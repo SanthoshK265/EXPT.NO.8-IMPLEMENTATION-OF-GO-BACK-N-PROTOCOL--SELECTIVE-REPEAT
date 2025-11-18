@@ -1,6 +1,6 @@
 # EXPT.NO.9-IMPLEMENTATION-OF-GO-BACK-N-PROTOCOL-SELECTIVE-REPEAT
 # AIM:
-To write and execute a program for Go-Back-N protocol-Selective Repeat.
+To write and execute a program for Go-Back-N protocol-Selective Repeat
 # EQUIPMENTS REQUIRED:
 Personal Computer Turbo C Compiler
 # PROCEDURE:
